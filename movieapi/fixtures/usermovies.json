@@ -1,0 +1,20 @@
+[
+    {
+        "model": "rockapi.UserMovie",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "movie": 1,
+            "watched": true
+        }
+    },
+    {
+        "model": "rockapi.UserMovie",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "movie": 2,
+            "watched": false
+        }
+    }
+]

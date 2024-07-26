@@ -1,0 +1,17 @@
+[
+    [
+        {
+            "model": "auth.user",
+            "pk": 1,
+            "fields": {
+                "username": "john",
+                "email": "john.doe@example.com",
+                "password": "pbkdf2_sha256$260000$zvArj4uH36fM$wYvsrscb9NQ1zPp8IBJsz9rPH2au59MkqqBu7ESlKO8=",
+                "is_staff": false,
+                "is_active": true,
+                "first_name": "John",
+                "last_name": "Doe"
+            }
+        }
+    ]    
+]
