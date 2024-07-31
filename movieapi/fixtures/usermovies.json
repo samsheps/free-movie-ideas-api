@@ -1,6 +1,6 @@
 [
     {
-        "model": "rockapi.UserMovie",
+        "model": "movieapi.UserMovie",
         "pk": 1,
         "fields": {
             "user": 1,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "model": "rockapi.UserMovie",
+        "model": "movieapi.UserMovie",
         "pk": 2,
         "fields": {
             "user": 1,
