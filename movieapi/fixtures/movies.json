@@ -1,6 +1,6 @@
 [
     {
-        "model": "rockapi.Movie",
+        "model": "movieapi.Movie",
         "pk": 1,
         "fields": {
             "title": "EMA",
@@ -12,7 +12,7 @@
         }
     },
     {
-        "model": "rockapi.Movie",
+        "model": "movieapi.Movie",
         "pk": 2,
         "fields": {
             "title": "Bacurau",

@@ -1,10 +1,10 @@
 [
-    {"model": "rockapi.Genre", "pk": 1, "fields": {"name": "Drama"}},
-    {"model": "rockapi.Genre", "pk": 2, "fields": {"name": "Comedy"}},
-    {"model": "rockapi.Genre", "pk": 3, "fields": {"name": "Romance"}},
-    {"model": "rockapi.Genre", "pk": 4, "fields": {"name": "Thriller"}},
-    {"model": "rockapi.Genre", "pk": 5, "fields": {"name": "Action"}},
-    {"model": "rockapi.Genre", "pk": 6, "fields": {"name": "Documentary"}},
-    {"model": "rockapi.Genre", "pk": 7, "fields": {"name": "Horror"}},
-    {"model": "rockapi.Genre", "pk": 8, "fields": {"name": "Sci-Fi"}}
+    {"model": "movieapi.Genre", "pk": 1, "fields": {"name": "Drama"}},
+    {"model": "movieapi.Genre", "pk": 2, "fields": {"name": "Comedy"}},
+    {"model": "movieapi.Genre", "pk": 3, "fields": {"name": "Romance"}},
+    {"model": "movieapi.Genre", "pk": 4, "fields": {"name": "Thriller"}},
+    {"model": "movieapi.Genre", "pk": 5, "fields": {"name": "Action"}},
+    {"model": "movieapi.Genre", "pk": 6, "fields": {"name": "Documentary"}},
+    {"model": "movieapi.Genre", "pk": 7, "fields": {"name": "Horror"}},
+    {"model": "movieapi.Genre", "pk": 8, "fields": {"name": "Sci-Fi"}}
 ]
