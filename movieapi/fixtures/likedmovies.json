@@ -1,0 +1,11 @@
+[
+    {
+        "model": "movieapi.LikedMovie",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "movie": 2,
+            "watched": true
+        }
+    }
+]

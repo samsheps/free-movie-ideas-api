@@ -4,8 +4,7 @@
         "pk": 1,
         "fields": {
             "user": 1,
-            "movie": 1,
-            "watched": true
+            "movie": 1
         }
     },
     {
@@ -13,8 +12,7 @@
         "pk": 2,
         "fields": {
             "user": 1,
-            "movie": 2,
-            "watched": false
+            "movie": 2
         }
     }
 ]
