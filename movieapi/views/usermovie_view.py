@@ -16,7 +16,6 @@ class UserMovieView(ViewSet):
             user_movie = UserMovie()
             user_movie.user_id = request.data['user_id']
             user_movie.movie_id = request.data['movie_id']
-            user_movie.watched = request.data['watched']
             user_movie.save()
 
             serialized = UserMovieSerializer(user_movie, many=False)

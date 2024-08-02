@@ -6,7 +6,7 @@
             "title": "EMA",
             "genre": 1,
             "release_year": 2019,
-            "info": "A woman navigates a tumultuous relationship and a difficult adoption process.",
+            "info": "A dance troupe leader deals with personal and professional challenges.",
             "director": "Pablo Larraín",
             "watch_location": "Hulu"
         }
@@ -16,11 +16,250 @@
         "pk": 2,
         "fields": {
             "title": "Bacurau",
-            "genre": 1,
+            "genre": 4,
             "release_year": 2019,
             "info": "Residents of a small Brazilian village notice that their town has vanished from most maps.",
             "director": "Kleber Mendonça Filho",
-            "watch_location": "Criterion Channel"
+            "watch_location": "The Criterion Channel"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 3,
+        "fields": {
+            "title": "Liquid Sky",
+            "genre": 8,
+            "release_year": 1982,
+            "info": "An alien visits New York City and interacts with the city's underground scene.",
+            "director": "Slava Tsukerman",
+            "watch_location": "Mubi"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 4,
+        "fields": {
+            "title": "Family Romance, LLC",
+            "genre": 1,
+            "release_year": 2019,
+            "info": "A film about a company that rents out family members for various occasions.",
+            "director": "Werner Herzog",
+            "watch_location": "Netflix"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 5,
+        "fields": {
+            "title": "10,000 Waves",
+            "genre": 6,
+            "release_year": 2014,
+            "info": "A visual and poetic exploration of the devastating impact of the 2011 tsunami in Japan.",
+            "director": "Tsai Ming-liang",
+            "watch_location": "Starz"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 6,
+        "fields": {
+            "title": "Magnetic Rose",
+            "genre": 8,
+            "release_year": 1995,
+            "info": "A space opera about a group of space travelers who encounter a haunted spaceship.",
+            "director": "Koichi Ohata",
+            "watch_location": "Hulu"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 7,
+        "fields": {
+            "title": "Walkabout",
+            "genre": 1,
+            "release_year": 1971,
+            "info": "Two siblings are stranded in the Australian desert and encounter an indigenous boy on his rite of passage.",
+            "director": "Nicolas Roeg",
+            "watch_location": "Netflix"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 8,
+        "fields": {
+            "title": "8 1/2",
+            "genre": 1,
+            "release_year": 1963,
+            "info": "A film director struggles with creative block while dealing with personal issues.",
+            "director": "Federico Fellini",
+            "watch_location": "Hulu"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 9,
+        "fields": {
+            "title": "The Favourite",
+            "genre": 1,
+            "release_year": 2018,
+            "info": "A historical drama about the intense rivalry between two cousins for the favor of Queen Anne.",
+            "director": "Yorgos Lanthimos",
+            "watch_location": "The Criterion Channel"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 10,
+        "fields": {
+            "title": "Shoplifters",
+            "genre": 1,
+            "release_year": 2018,
+            "info": "A Japanese family living in poverty resorts to shoplifting to survive.",
+            "director": "Hirokazu Kore-eda",
+            "watch_location": "Netflix"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 11,
+        "fields": {
+            "title": "Bisbee ‘17",
+            "genre": 6,
+            "release_year": 2018,
+            "info": "A documentary about a reenactment of a historic labor strike in Bisbee, Arizona.",
+            "director": "Robert Greene",
+            "watch_location": "The Criterion Channel"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 12,
+        "fields": {
+            "title": "Mauvais Sang",
+            "genre": 1,
+            "release_year": 1986,
+            "info": "A French film about a man who becomes involved in a criminal plot to steal a valuable drug.",
+            "director": "Leos Carax",
+            "watch_location": "The Criterion Channel"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 13,
+        "fields": {
+            "title": "Private Life",
+            "genre": 1,
+            "release_year": 2018,
+            "info": "A couple struggles with infertility and the impact it has on their relationship.",
+            "director": "Tamara Jenkins",
+            "watch_location": "Netflix"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 14,
+        "fields": {
+            "title": "I Don't Feel at Home in This World Anymore",
+            "genre": 4,
+            "release_year": 2017,
+            "info": "A woman teams up with her eccentric neighbor to find the thieves who stole her possessions.",
+            "director": "Macon Blair",
+            "watch_location": "The Criterion Channel"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 15,
+        "fields": {
+            "title": "Celine and Julie Go Boating",
+            "genre": 1,
+            "release_year": 1974,
+            "info": "A whimsical French film about two women who become involved in a mysterious story.",
+            "director": "Jacques Rivette",
+            "watch_location": "The Criterion Channel"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 16,
+        "fields": {
+            "title": "Heaven Can Wait",
+            "genre": 1,
+            "release_year": 1978,
+            "info": "A comedy about a man who is reincarnated in the body of a wealthy playboy.",
+            "director": "Warren Beatty, Buck Henry",
+            "watch_location": "Netflix"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 17,
+        "fields": {
+            "title": "Stinking Heaven",
+            "genre": 1,
+            "release_year": 2015,
+            "info": "A film about a group of people living in a commune and dealing with their personal struggles.",
+            "director": "Nathan Silver",
+            "watch_location": "The Criterion Channel"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 18,
+        "fields": {
+            "title": "Covergirl",
+            "genre": 1,
+            "release_year": 1952,
+            "info": "A musical drama about a young woman who becomes a cover girl and struggles with fame.",
+            "director": "Charles Vidor",
+            "watch_location": "The Criterion Channel"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 19,
+        "fields": {
+            "title": "Night Tide",
+            "genre": 4,
+            "release_year": 1961,
+            "info": "A film about a sailor who becomes romantically involved with a woman who may be a mermaid.",
+            "director": "Curtis Harrington",
+            "watch_location": "Mubi"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 20,
+        "fields": {
+            "title": "The Souvenir",
+            "genre": 1,
+            "release_year": 2019,
+            "info": "A young film student falls into a turbulent relationship with an older man.",
+            "director": "Joanna Hogg",
+            "watch_location": "Netflix"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 21,
+        "fields": {
+            "title": "Beach Rats",
+            "genre": 1,
+            "release_year": 2017,
+            "info": "A young man in Brooklyn navigates his sexuality and life on the fringes of society.",
+            "director": "Eliza Hittman",
+            "watch_location": "Mubi"
+        }
+    },
+    {
+        "model": "movieapi.Movie",
+        "pk": 22,
+        "fields": {
+            "title": "Force Majeure",
+            "genre": 4,
+            "release_year": 2014,
+            "info": "A family vacation in the Alps is disrupted by a controlled avalanche and its aftermath.",
+            "watch_location": "Netflix"
         }
     }
 ]

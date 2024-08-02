@@ -10,6 +10,7 @@ python3 manage.py loaddata tokens
 python3 manage.py loaddata genres
 python3 manage.py loaddata movies
 python3 manage.py loaddata usermovies
+python3 manage.py loaddata likedmovies
 
 
 
